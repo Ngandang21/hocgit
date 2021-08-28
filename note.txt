@@ -1,0 +1,2 @@
+- Khi tạo nhánh, nhân bản nhánh hiện tại (thường sẽ nhân bản từ master)
+- Sau khi tạo nhánh xong, 
